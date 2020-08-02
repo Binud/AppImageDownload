@@ -1,0 +1,2 @@
+# AppImageDownload
+Single File Only
